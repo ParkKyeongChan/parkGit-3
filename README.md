@@ -28,5 +28,5 @@
 - **ORM**      : JPA
 
 ## 관리자 계정
-ID : admin@naver.com
+ID : admin@naver.com <br/>
 PW : 1234
