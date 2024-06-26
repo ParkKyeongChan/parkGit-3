@@ -26,3 +26,7 @@
 - **Framework** : SpringBoot 2.7.11
 - **Database**  : MySql
 - **ORM**      : JPA
+
+## 관리자 계정
+ID : admin@naver.com
+PW : 1234
